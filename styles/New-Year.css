@@ -1,0 +1,18 @@
+.banner {
+  align-items: center;
+}
+.happy_greeting {
+  text-align: center;
+}
+.Happy_title {
+  text-align: center;
+}
+main {
+  background-image: url(/images/Banner\ Image.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 16px;
+  background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+
+  padding: 300px 300px;
+}
